@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Katty-Bisha
-- 👀 I’m interested in programming and drawing
+- 👋 Hi, I’m @Katty-Bisha. 
+- 👀 I’m interested in programming and drawing. 
 - 🌱 I’m currently learning at BrSTU. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
